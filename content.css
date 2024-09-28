@@ -1,0 +1,10 @@
+.masked-text {
+    background-color: black !important;
+    color: transparent !important;
+    text-decoration: none !important;
+}
+
+.masked-text * {
+    color: transparent !important;
+    text-decoration: none !important;
+}
